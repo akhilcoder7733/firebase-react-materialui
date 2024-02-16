@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/firebase-react-materialui/static/css/main.c05e8029.css",
+    "main.js": "/firebase-react-materialui/static/js/main.44168108.js",
+    "static/js/592.822587e0.chunk.js": "/firebase-react-materialui/static/js/592.822587e0.chunk.js",
+    "static/media/UseContact.jpg": "/firebase-react-materialui/static/media/UseContact.359ca2813fc6ea1572f9.jpg",
+    "static/media/new.jpg": "/firebase-react-materialui/static/media/new.c8023c4335988380d065.jpg",
+    "static/media/newpinsta.jpg": "/firebase-react-materialui/static/media/newpinsta.f598933af8f92f5bc4c5.jpg",
+    "static/media/team.svg": "/firebase-react-materialui/static/media/team.859c788d22cef023b282442518f2dcca.svg",
+    "static/media/loginImage.svg": "/firebase-react-materialui/static/media/loginImage.2e8b4c4ed5b8f5fc4a5b459d6d37df8a.svg",
+    "static/media/registerimga.svg": "/firebase-react-materialui/static/media/registerimga.304f9d0692fea18af39c8a8d088b0230.svg",
+    "static/media/check.svg": "/firebase-react-materialui/static/media/check.c01f90f3b73502b0f44008269d333d3e.svg",
+    "static/media/Contactus.svg": "/firebase-react-materialui/static/media/Contactus.13c80369250d8f0aff509318d9d484eb.svg",
+    "static/media/forgot_password.svg": "/firebase-react-materialui/static/media/forgot_password.92f80558581f6d441ea61bdcbc5387e5.svg",
+    "static/media/login.svg": "/firebase-react-materialui/static/media/login.a18e427df467f6374cff35e7816312c0.svg",
+    "index.html": "/firebase-react-materialui/index.html",
+    "main.c05e8029.css.map": "/firebase-react-materialui/static/css/main.c05e8029.css.map",
+    "main.44168108.js.map": "/firebase-react-materialui/static/js/main.44168108.js.map",
+    "592.822587e0.chunk.js.map": "/firebase-react-materialui/static/js/592.822587e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05e8029.css",
+    "static/js/main.44168108.js"
+  ]
+}
