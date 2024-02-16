@@ -72,8 +72,8 @@ function App() {
         <CartProvider>
           <Header darkMode={darkMode} setDarkMode={setDarkMode} />
           <Routes>
-        <Route path="/firebase-react" element={<Home darkMode={darkMode} />} />
             <Route path="/" element={<Home darkMode={darkMode} />} />
+        <Route path="/firebase-react-materialui" element={<Home darkMode={darkMode} />} />
             <Route path="/*" element={<NotFound darkMode={darkMode} setDarkMode={setDarkMode} />} />
             <Route path="/register" element={<Registration darkMode={darkMode} />} />
             <Route path="/login" element={<Login darkMode={darkMode} />} />
