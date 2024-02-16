@@ -72,7 +72,7 @@ const CustomMenuIcon = styled(MenuIcon)(({ theme, darkMode }) => ({
   marginRight: theme.spacing(2),
   [theme.breakpoints.down("md")]: {
     display: "block",
-    color: darkMode ? "#fff" : "#fff",
+    color: darkMode ? "#fff" : "#111",
   },
 }));
 const StyledLogo = styled(Typography)(({ theme }) => ({
