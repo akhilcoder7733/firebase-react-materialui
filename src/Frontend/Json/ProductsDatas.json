@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "name": "High-End Smartphone",
+      "category": "Electronics",
+      "price": 799.99,
+      "description": "A flagship smartphone with advanced features.",
+      "image": "https://source.unsplash.com/featured/?smartphone"
+    },
+    {
+      "id": 2,
+      "name": "UltraBook Pro",
+      "category": "Electronics",
+      "price": 1499.99,
+      "description": "Premium ultrabook for professionals and creatives.",
+      "image": "https://source.unsplash.com/featured/?ultrabook"
+    },
+    {
+      "id": 3,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 89.99,
+      "description": "Lightweight running shoes for optimal performance.",
+      "image": "https://source.unsplash.com/featured/?runningshoes"
+    },
+    {
+      "id": 4,
+      "name": "Casual Sneakers",
+      "category": "Footwear",
+      "price": 59.99,
+      "description": "Stylish and comfortable sneakers for everyday wear.",
+      "image": "https://source.unsplash.com/featured/?sneakers"
+    },
+    {
+      "id": 5,
+      "name": "Designer Necklace",
+      "category": "Jewelry",
+      "price": 199.99,
+      "description": "Exquisite necklace designed for special occasions.",
+      "image": "https://source.unsplash.com/featured/?necklace"
+    },
+    {
+      "id": 6,
+      "name": "Gold Bracelet",
+      "category": "Jewelry",
+      "price": 349.99,
+      "description": "Elegant gold bracelet with intricate details.",
+      "image": "https://source.unsplash.com/featured/?goldbracelet"
+    },
+    {
+      "id": 7,
+      "name": "Luxury Dress",
+      "category": "Fashion",
+      "price": 299.99,
+      "description": "Luxurious designer dress for special events.",
+      "image": "https://source.unsplash.com/featured/?luxurydress"
+    },
+    {
+      "id": 8,
+      "name": "Fashionable Sunglasses",
+      "category": "Fashion",
+      "price": 79.99,
+      "description": "Stylish sunglasses to elevate your look.",
+      "image": "https://source.unsplash.com/featured/?sunglasses"
+    },
+    {
+      "id": 9,
+      "name": "Smart Fitness Watch",
+      "category": "Electronics",
+      "price": 129.99,
+      "description": "Advanced fitness watch with smart features.",
+      "image": "https://source.unsplash.com/featured/?smartwatch"
+    },
+    {
+      "id": 10,
+      "name": "Comfortable Sandals",
+      "category": "Footwear",
+      "price": 49.99,
+      "description": "Casual and comfortable sandals for warm days.",
+      "image": "https://source.unsplash.com/featured/?sandals"
+    },
+    {
+      "id": 11,
+      "name": "Diamond Stud Earrings",
+      "category": "Jewelry",
+      "price": 299.99,
+      "description": "Elegant diamond stud earrings for a classic touch.",
+      "image": "https://source.unsplash.com/featured/?diamondearrings"
+    },
+    {
+      "id": 12,
+      "name": "Fashionable Backpack",
+      "category": "Fashion",
+      "price": 69.99,
+      "description": "Trendy backpack for everyday use.",
+      "image": "https://source.unsplash.com/featured/?backpack"
+    },
+    {
+      "id": 13,
+      "name": "Professional Camera",
+      "category": "Electronics",
+      "price": 1999.99,
+      "description": "High-performance camera for photographers.",
+      "image": "https://source.unsplash.com/featured/?camera"
+    },
+    {
+      "id": 14,
+      "name": "Classic Loafers",
+      "category": "Footwear",
+      "price": 69.99,
+      "description": "Timeless loafers for a sophisticated look.",
+      "image": "https://source.unsplash.com/featured/?loafers"
+    },
+    {
+      "id": 15,
+      "name": "Pearl Necklace",
+      "category": "Jewelry",
+      "price": 159.99,
+      "description": "Beautiful pearl necklace for a touch of elegance.",
+      "image": "https://source.unsplash.com/featured/?pearlnecklace"
+    },
+    {
+      "id": 16,
+      "name": "Stylish Fedora Hat",
+      "category": "Fashion",
+      "price": 49.99,
+      "description": "Chic fedora hat to enhance your style.",
+      "image": "https://source.unsplash.com/featured/?fedorahat"
+    },
+    {
+      "id": 17,
+      "name": "High-Performance Gaming Laptop",
+      "category": "Electronics",
+      "price": 2299.99,
+      "description": "Gaming laptop with top-notch specs for gamers.",
+      "image": "https://source.unsplash.com/featured/?gaminglaptop"
+    },
+    {
+      "id": 18,
+      "name": "Fashionable High Heels",
+      "category": "Footwear",
+      "price": 89.99,
+      "description": "Trendy high heels to complete your outfit.",
+      "image": "https://source.unsplash.com/featured/?highheels"
+    },
+    {
+      "id": 19,
+      "name": "Emerald Bracelet",
+      "category": "Jewelry",
+      "price": 279.99,
+      "description": "Elegant emerald bracelet for a touch of color.",
+      "image": "https://source.unsplash.com/featured/?emeraldbracelet"
+    },
+    {
+      "id": 20,
+      "name": "Stylish Winter Coat",
+      "category": "Fashion",
+      "price": 129.99,
+      "description": "Warm and stylish winter coat for cold days.",
+      "image": "https://source.unsplash.com/featured/?wintercoat"
+    },
+    {
+      "id": 21,
+      "name": "Ultra HD Smart TV",
+      "category": "Electronics",
+      "price": 1499.99,
+      "description": "Immersive Ultra HD smart TV for entertainment.",
+      "image": "https://source.unsplash.com/featured/?smarttv"
+    },
+    {
+      "id": 22,
+      "name": "Classic Oxfords",
+      "category": "Footwear",
+      "price": 79.99,
+      "description": "Classic oxfords for a timeless look.",
+      "image": "https://source.unsplash.com/featured/?oxfords"
+    },
+    {
+      "id": 23,
+      "name": "Sapphire Ring",
+      "category": "Jewelry",
+      "price": 349.99,
+      "description": "Exquisite sapphire ring for special occasions.",
+      "image": "https://source.unsplash.com/featured/?sapphirering"
+    },
+    {
+      "id": 24,
+      "name": "Chic Trench Coat",
+      "category": "Fashion",
+      "price": 99.99,
+      "description": "Chic trench coat for a sophisticated look.",
+      "image": "https://source.unsplash.com/featured/?trenchcoat"
+    },
+    {
+      "id": 25,
+      "name": "Home Theater System",
+      "category": "Electronics",
+      "price": 999.99,
+      "description": "Complete home theater system for cinematic experiences.",
+      "image": "https://source.unsplash.com/featured/?hometheatersystem"
+    },
+    {
+      "id": 26,
+      "name": "Comfortable Espadrilles",
+      "category": "Footwear",
+      "price": 39.99,
+      "description": "Casual and comfortable espadrilles for a laid-back style.",
+      "image": "https://source.unsplash.com/featured/?espadrilles"
+    },
+    {
+      "id": 27,
+      "name": "Ruby Pendant Necklace",
+      "category": "Jewelry",
+      "price": 199.99,
+      "description": "Elegant ruby pendant necklace for a touch of glamour.",
+      "image": "https://source.unsplash.com/featured/?rubypendant"
+    },
+    {
+      "id": 28,
+      "name": "Boho-Chic Maxi Dress",
+      "category": "Fashion",
+      "price": 79.99,
+      "description": "Boho-chic maxi dress for a free-spirited look.",
+      "image": "https://source.unsplash.com/featured/?maxidress"
+    },
+    {
+      "id": 29,
+      "name": "4K Action Camera",
+      "category": "Electronics",
+      "price": 299.99,
+      "description": "Capture your adventures with a high-quality 4K action camera.",
+      "image": "https://source.unsplash.com/featured/?actioncamera"
+    },
+    {
+      "id": 30,
+      "name": "Cozy Slippers",
+      "category": "Footwear",
+      "price": 29.99,
+      "description": "Cozy slippers for a relaxing time at home.",
+      "image": "https://source.unsplash.com/featured/?slippers"
+    }
+  ]
+  
